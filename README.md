@@ -10,7 +10,7 @@
 
 - **Projetos Diversificados:** Desde sistemas complexos até automações simples, minha jornada é refletida em meus projetos.
 - **Simplicidade e Eficiência:** Minhas soluções visam simplicidade e eficiência, tornando a tecnologia acessível a todos.
-
+##
 <details>
  <summary>Estatisticas Github</summary>
 <div>
