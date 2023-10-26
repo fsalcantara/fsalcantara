@@ -1,4 +1,6 @@
-## Fabrício Alcântara - Engenheiro de Dados.
+## Fabrício Alcântara - Engenheiro de Dados. 
+
+[![Translate to English](https://img.shields.io/badge/Translate%20to-English-blue.svg)](https://translate.google.com/translate?sl=pt&tl=en&u=https://github.com/fsalcantara/fsalcantara)
 
 ### Sobre mim:
 
