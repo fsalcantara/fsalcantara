@@ -1,17 +1,17 @@
-## Fabrício Alcântara - Desenvolvedor de Software. 
+## Fabrício Alcântara - Desenvolvedor de Software e Engenheiro de Dados. 
 
 [![Translate to English](https://img.shields.io/badge/Translate%20to-English-blue.svg)](https://translate.google.com/translate?sl=pt&tl=en&u=https://github.com/fsalcantara/fsalcantara)
 
 ### Sobre mim:
 
-- **Interesses:** Exploro o mundo da tecnologia, concentrando-me em projetos de Engenharia de Dados.
+- **Interesses:** Exploro o mundo da tecnologia, concentrando-me em projetos de Engenharia de Dados e Desenvolvimento de Softwares.
 - **Contribuições:** Compartilho sistemas, automações e soluções práticas para problemas do dia a dia.
 - **Aprendizado Contínuo:** Estou sempre aprendendo e buscando maneiras de aprimorar minhas habilidades.
 
 ### O que você encontrará aqui:
 
 - **Projetos Diversificados:** Desde sistemas complexos até automações simples, minha jornada é refletida em meus projetos.
-- **Simplicidade e Eficiência:** Minhas soluções visam simplicidade e eficiência, tornando a tecnologia acessível a todos.
+- **Simplicidade e Eficiência:** Meu lema é trazer soluções que visam a simplicidade e eficiência, tornando a tecnologia acessível a todos.
 ##
 <details>
  <summary>Estatisticas Github</summary>
